@@ -4,19 +4,21 @@ body {
   text-transform: uppercase;
 }
 
-h2 {
-  font-size: 21px;
+h1 {
+  font-size: 14px;
+  font-weight: normal;
 }
 
 b {
-  font-weight: normal;
+  font-size: 21px;
+  font-weight: bold;
 }
 
 .navigation-item {
   font-weight: bold;
 }
 
-.features-name, .found {
+.features-name, .lead, .found {
   font-size: 21px;
   font-weight: bold;
 }
@@ -28,4 +30,14 @@ b {
 
 .sort-item {
   font-size: 12px;
+}
+
+.interest {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.btn-search-hotel {
+    font-size: 21px;
+    font-weight: bold;
 }
