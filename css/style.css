@@ -4,12 +4,7 @@ body {
   text-transform: uppercase;
 }
 
-h1 {
-  font-size: 14px;
-  font-weight: normal;
-}
-
-b {
+h2, b {
   font-size: 21px;
   font-weight: bold;
 }
@@ -18,7 +13,7 @@ b {
   font-weight: bold;
 }
 
-.features-name, .lead, .found {
+.features-name, .found {
   font-size: 21px;
   font-weight: bold;
 }
@@ -32,7 +27,7 @@ b {
   font-size: 12px;
 }
 
-.interest {
+.interest-question {
   font-size: 30px;
   font-weight: bold;
 }
